@@ -4,9 +4,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20profile%20page!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-
-
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=EL+PSY+KONGROO!" />
@@ -33,9 +30,9 @@
 </p>
 <p align="center">
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loneprison/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loneprison/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/loneprison/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loneprison/loneprison/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loneprison/loneprison/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/loneprison/loneprison/refs/heads/output/github-snake.svg" />
 </picture>
 </p>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -45,7 +42,6 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!--<img align="center" width="400" src="https://streak-stats.demolab.com?user=loneprison&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />-->
 <br/>
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@loneprison&theme=transparent&hide_border=true&langs_count=6&range=all_time&a&hide=ohter,html,json,tsconfig" />
