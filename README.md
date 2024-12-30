@@ -44,7 +44,7 @@
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@loneprison&theme=transparent&hide_border=true&langs_count=6&range=all_time&a&hide=ohter,html,json,tsconfig" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@loneprison" />
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
